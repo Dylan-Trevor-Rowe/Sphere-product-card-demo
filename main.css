@@ -1,0 +1,21 @@
+#projectCard {
+  margin: auto;
+}
+
+.sphere {
+  box-shadow: 10px;
+  background-color: rgb(37, 32, 32);
+}
+
+body {
+  background-color: #b4d0d1;
+}
+h5 {
+    color: white;
+}
+
+p {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
